@@ -6,22 +6,22 @@ Components: main
 Codename: Shadow (MOD)
 Description: This is Shadow which is a jailbreak detection bypass. This is a modified version of 2.0.8 and works on firmware 12.4. Please not that I did not create, modifiy or in anyway help with this tweak and as such no support will be given. I have tested this myself on the iPhone 8 running unc0ver on 12.4.
 MD5Sum:
- 1a2e871294fd8c030d305006965e08cf 463 Packages
- 9a3ed2d9f7ddbd3b6a34d8310dfe699c 463 Packages.bz
- 96363d435b806b6b3680cacc638b3ab0 707 Packages.gz
+ 1a2e871294fd8c030d305006965e08cf 707 Packages
+ 9a3ed2d9f7ddbd3b6a34d8310dfe699c 501 Packages.bz
+ 96363d435b806b6b3680cacc638b3ab0 463 Packages.gz
  
 SHA1:
- e5bcde7a9ba0c9cfb7b1d4165435a9163a68d0c6 463 Packages
- 9ba760fffa9a94954c5cd8641fd89af74c80ba65 463 Packages.bz
- 7c4ca7ed0eb33693e523ad5ea58667c052770335 707 Packages.gz
+ e5bcde7a9ba0c9cfb7b1d4165435a9163a68d0c6 707 Packages
+ 9ba760fffa9a94954c5cd8641fd89af74c80ba65 501 Packages.bz
+ 7c4ca7ed0eb33693e523ad5ea58667c052770335 463 Packages.gz
  
 SHA256:
- b2c16f4583ea48d4d35e3ec614ae092352916ce13e9d07b463946ae3174fc7a6 463 Packages
- e594c2e778c27cc384b6f1f3422ed497110826ca5a428a244c1bfd5a81b95c97 463 Packages.bz
- 197219883605d8f7da5c32f40a01e8ce56b8b0604acccafa2799aae526680c14 707 Packages.gz
+ b2c16f4583ea48d4d35e3ec614ae092352916ce13e9d07b463946ae3174fc7a6 707 Packages
+ e594c2e778c27cc384b6f1f3422ed497110826ca5a428a244c1bfd5a81b95c97 501 Packages.bz
+ 197219883605d8f7da5c32f40a01e8ce56b8b0604acccafa2799aae526680c14 463 Packages.gz
  
 SHA512:
- 1ee0cdad5bdb7b176eb68612c6e4707204668aff5e8d1a26014db79c3c2b4beabc2810aef7bc3dd5ea3ee079619c02fb1d69845bc40a079f6066e986319faf2e 463 Packages
- 32ad9d7673317a6ea0e3503904afe91137ccaae3f717b314fab7f20ecde510b9ff48ac35fb366baf5f65ef504ab11a4e253f4c73ea8842f1399e21c651454f74 463 Packages.bz
- 0a9b8c3dd82c0a40a876b223bc847404b7a7a661465624cc5e7c28c05a1880281a75e537bb6b9567098b939887da305e03d0179a63f6f3b5945b7a3ea0944a03 707 Packages.gz
+ 1ee0cdad5bdb7b176eb68612c6e4707204668aff5e8d1a26014db79c3c2b4beabc2810aef7bc3dd5ea3ee079619c02fb1d69845bc40a079f6066e986319faf2e 707 Packages
+ 32ad9d7673317a6ea0e3503904afe91137ccaae3f717b314fab7f20ecde510b9ff48ac35fb366baf5f65ef504ab11a4e253f4c73ea8842f1399e21c651454f74 501 Packages.bz
+ 0a9b8c3dd82c0a40a876b223bc847404b7a7a661465624cc5e7c28c05a1880281a75e537bb6b9567098b939887da305e03d0179a63f6f3b5945b7a3ea0944a03 463 Packages.gz
  
