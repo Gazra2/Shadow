@@ -9,6 +9,7 @@ Architecture: iphoneos-arm
 Filename: package/com.modded.shadow_2.0.8_iphoneos-arm.deb
 Depiction: ./depiction/com.modded.shadow_2.0.8_iphoneos-arm
 Icon: ./icons/com.modded.shadow_2.0.8_iphoneos-arm
+Size: 267480
 MD5Sum: c50fade710af2e4c9c4742d15ba2e1c7
 SHA1: e0607ae957cc874b2288e4549598fe4d84805460
 SHA256: 55ec4437f1df70085fd0328610e2912697ca6cb7749043269773bef96b45fa4f
