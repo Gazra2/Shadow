@@ -5,7 +5,7 @@ Maintainer: NONE
 Author: jjolano
 Description: A lightweight general jailbreak detection bypass. (works on 12.4)
 Section: Tweaks
-Installed-Size: 450
+Installed-Size: 463
 Architecture: iphoneos-arm
 Filename: ./debs/com.modded.shadow_2.0.8_iphoneos-arm.deb
 Depiction: ./depiction/com.modded.shadow_2.0.8_iphoneos-arm.ass
