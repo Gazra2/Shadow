@@ -1,18 +1,18 @@
-Package: io.ominousness.ass
-Name: AudioSnapshotServer
+Package: Shadow
+Name: Shadow
 Version: 1.0.0
-Maintainer: Nepeta <ominousness@protonmail.com>
-Author: Nepeta <ominousness@protonmail.com>
-Description: iOS mediaserverd hook to serve snapshots of current audio buffer via TCP/IP (If you can't see the depiction, please use Cydia or Zebra).
-Section: Development
+Maintainer: NONE
+Author: jjolano
+Description: A lightweight general jailbreak detection bypass. (works on 12.4)
+Section: Tweaks
 Installed-Size: 152
 Architecture: iphoneos-arm
-Filename: packages/io.ominousness.ass_1.0.0_iphoneos-arm.deb
+Filename: package/com.modded.shadow_2.0.8_iphoneos-arm.deb
 Depiction: ./depiction/io.ominousness.ass
 Icon: ./CydiaIcon.png
 Size: 5352
-MD5Sum: 4f9c4864ee9eb3555eb3e5ec72a7c336
-SHA1: 0b014a8265d3081db9adf6a96ff4310683224fbd
-SHA256: f34a0f92522b9b8cacd3ae1346ae69c228fe51bf2a2db24afa405780494b9638
-SHA512: 157aaaa21d9cf61f7fd7d5ae63560b3ee933fb942fb9fea8b8b7c986f18cd03f2146c462d13c0bfd3303b6516bc34426f60bfefa1a0302bcc03129d6396c64e1
+MD5Sum: cfa99b3d44d88e216213f8ee4395fb63
+SHA1: 6c50499501c7ace4aba6afda4a999cb1ac4f7309
+SHA256: 667bfda61113e63d3ef4836299215c53fc2cc8e062004c8085fa6e56b2c4eab7
+SHA512: 6e71d74fe997e3fd814ba1e72ddfddf0b3bba13d5e8ba86bd111d6f5211ca3bc124bb2c9ee54f16306f76f6ad649fb5b4cc88dd8c30e1c815e3433bbb1af509f
 
