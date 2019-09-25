@@ -3,7 +3,7 @@ Suite: stable
 Version: 1.0
 Architectures: iphoneos-arm
 Components: main
-Codename: ominousness
+Codename: Shadow (MOD)
 Description: This is Shadow which is a jailbreak detection bypass. This is a modified version of 2.0.8 and works on firmwares upto 12.4. Please not that I did not create, modifiy or in anyway help with this tweak and as such no support will be given. I have tested this myself on the iPhone 8 running unc0ver on 12.4.
 MD5Sum:
  5ab1eace4f885275b5d0dbf5105b2cc3 166092 Packages
