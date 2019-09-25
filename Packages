@@ -8,8 +8,8 @@ Section: Tweaks
 Installed-Size: 152
 Architecture: iphoneos-arm
 Filename: package/com.modded.shadow_2.0.8_iphoneos-arm.deb
-Depiction: ./depiction/io.ominousness.ass
-Icon: ./CydiaIcon.png
+Depiction: ./depiction/com.modded.shadow_2.0.8_iphoneos-arm
+Icon: ./icons/com.modded.shadow_2.0.8_iphoneos-arm
 Size: 5352
 MD5Sum: cfa99b3d44d88e216213f8ee4395fb63
 SHA1: 6c50499501c7ace4aba6afda4a999cb1ac4f7309
